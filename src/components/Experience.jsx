@@ -4,7 +4,7 @@ import skills from "../components/data/skills.json";
 import history from "../components/data/history.json";
 import { getImageUrl } from "../utils";
 
-export const Experience = () => {
+ const Experience = () => {
   return (
     <section className={styles.container} id="experience">
       <h2 className={styles.title}>Experience</h2>
@@ -46,3 +46,4 @@ export const Experience = () => {
     </section>
   );
 };
+export default Experience
