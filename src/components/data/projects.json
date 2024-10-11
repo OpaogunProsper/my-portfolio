@@ -1,26 +1,24 @@
 [
   {
     "title": "NC News",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "imageSrc": "projects/ncenews.png",
+    "description": "A dynamic news application designed to enhance my skills while providing users with the latest articles on topics like coding, cooking, and football. The app focuses on delivering a user-friendly experience.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://ncatnews.netlify.app/",
+    "source": "https://github.com/OpaogunProsper/fe-nc-news"
   },
   {
     "title": "PrepMaster",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/prepM.png",
+    "description": "It is a hub to find recipes. The user can track their macros and calories for a given day and view the meals they have cooked via a progress bar.",
+    "skills": ["Next", "Mongoose", "MongoDB", "DaisyUI"],
+    "demo": "https://be-prep-master.vercel.app/",
+    "source": "https://github.com/josh-raftery/prep-master"
   },
   {
     "title": "Car Detailing App",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "imageSrc": "projects/detailing.jpeg",
+    "description": "Coming soon...",
+    "skills": ["React", "Express", "Node"]
   }
 ]
