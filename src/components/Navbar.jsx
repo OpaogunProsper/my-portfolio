@@ -5,8 +5,8 @@ const Navbar = () => {
     const [menuOpen , setMenuOpen] = useState(false)
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
-        Prosper Opaogun
+      <a className={styles.button} href="/resume.pdf" download>
+        Download Resume
         
       </a>
       <div className={styles.menu}>

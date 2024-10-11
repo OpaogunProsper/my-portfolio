@@ -4,7 +4,7 @@ const Hero = () => {
   return (
    <section className={styles.container}>
     <div className={styles.content}>
-        <h1 className={styles.title}>Welcome!</h1>
+        <h1 className={styles.title}>Welcome to my Portfolio!</h1>
         <p className={styles.description}>
            Hi there, I'm Prosper, a passionate full stack developer who recently completed an intensive software development boot-camp. With hands on experience in building dynamic web applications.
            Let's connect if you are looking for a dedicated developer!
