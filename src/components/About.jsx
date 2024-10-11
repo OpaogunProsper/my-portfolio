@@ -17,8 +17,9 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a Frontend Developer with experience in building responsive
-                and optimized sites
+                Passionate about creating responsive, user-friendly websites
+                with a focus on performance and optimization. Skilled in
+                delivering seamless web experiences across devices.
               </p>
             </div>
           </li>
@@ -26,7 +27,11 @@ const About = () => {
             <img src={getImageUrl("about/serverIcon.png")} alt="server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
-              <p>I have experience building Restful APIs and so on.</p>
+              <p>
+                Experienced in developing fast, scalable and optimized RESTful
+                APIs. Skilled in ensuring secure, reliable server-side
+                functionality to support seamless frontend interactions.
+              </p>
             </div>
           </li>
         </ul>

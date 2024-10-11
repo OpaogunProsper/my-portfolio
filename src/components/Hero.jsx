@@ -4,9 +4,10 @@ const Hero = () => {
   return (
    <section className={styles.container}>
     <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Prosper</h1>
+        <h1 className={styles.title}>Welcome!</h1>
         <p className={styles.description}>
-            I'm a full stack developer with 1 year of experience. Reach out if you'd like to work together
+           Hi there, I'm Prosper, a passionate full stack developer who recently completed an intensive software development boot-camp. With hands on experience in building dynamic web applications.
+           Let's connect if you are looking for a dedicated developer!
 
         </p>
         <a className={styles.contactBtn} href="mailto:prosperopaogun@gmail.com">Contact Me</a>

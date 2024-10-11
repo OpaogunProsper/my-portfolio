@@ -16,15 +16,31 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "pSQL",
+    "imageSrc": "skills/Postgresql_elephant.svg.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  }
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-js-icon.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
+  },
+   {
+     "title": "Jest",
+     "imageSrc": "skills/jest.png"
+   },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+     {
+       "title": "Taiwind",
+       "imageSrc": "skills/tailwind.png"
+     }
 ]

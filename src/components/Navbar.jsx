@@ -6,7 +6,8 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portfolio
+        Prosper Opaogun
+        
       </a>
       <div className={styles.menu}>
         <img
@@ -19,8 +20,9 @@ const Navbar = () => {
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         />
-        <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
-        onClick={() => setMenuOpen(false)}
+        <ul
+          className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
+          onClick={() => setMenuOpen(false)}
         >
           <li>
             <a href="#about">About</a>
