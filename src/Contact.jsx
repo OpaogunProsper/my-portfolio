@@ -10,23 +10,25 @@ const Contact = () => {
        </div>
        <ul className={styles.links}>
          <li className={styles.link}>
-           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
            <a href="mailto:prosperopaogun@gmail.com">
-             prosperopaogun@gmail.com
+             <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
            </a>
          </li>
          <li className={styles.link}>
-           <img
-             src={getImageUrl("contact/linkedinIcon.png")}
-             alt="LinkedIn icon"
-           />
            <a href="https://www.linkedin.com/in/prosperopaogun/">
-             linkedin.com/in/prosperopaogun/
+             <img
+               src={getImageUrl("contact/linkedinIcon.png")}
+               alt="LinkedIn icon"
+             />
            </a>
          </li>
          <li className={styles.link}>
-           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-           <a href="https://www.github.com/OpaogunProsper">github.com/OpaogunProsper</a>
+           <a href="https://www.github.com/OpaogunProsper">
+             <img
+               src={getImageUrl("contact/githubIcon.png")}
+               alt="Github icon"
+             />
+           </a>
          </li>
        </ul>
      </footer>
