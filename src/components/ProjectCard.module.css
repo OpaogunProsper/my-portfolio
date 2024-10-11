@@ -8,12 +8,12 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
-  height: 700px;
+  height: 715px;
 }
 
 .image {
   margin-bottom: 26px;
-  border-radius: 10%;
+  border-radius: 5%;
 }
 
 .title {

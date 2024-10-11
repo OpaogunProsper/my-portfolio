@@ -12,9 +12,10 @@ const ProjectCard = ({ project }) => {
       <p className={styles.description}>{project.description}</p>
       <ul className={styles.skills}>
         {project.skills.map((skill, id) => {
+            return(
           <li key={id} className={styles.skill}>
             {skill}
-          </li>;
+          </li>)
         })}
       </ul>
       <div className={styles.links}>

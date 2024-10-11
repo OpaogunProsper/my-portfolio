@@ -2,7 +2,7 @@
   {
     "title": "NC News",
     "imageSrc": "projects/ncenews.png",
-    "description": "A dynamic news application designed to enhance my skills while providing users with the latest articles on topics like coding, cooking, and football. The app focuses on delivering a user-friendly experience.",
+    "description": "A dynamic news application designed to provide users with the latest articles on various topics. The app focuses on delivering a user-friendly experience.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://ncatnews.netlify.app/",
     "source": "https://github.com/OpaogunProsper/fe-nc-news"
@@ -19,6 +19,6 @@
     "title": "Car Detailing App",
     "imageSrc": "projects/detailing.jpeg",
     "description": "Coming soon...",
-    "skills": ["React", "Express", "Node"]
+    "skills": ["React Native", "Express", "Node"]
   }
 ]
