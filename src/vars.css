@@ -1,11 +1,11 @@
 :root {
     --color-text: #fff; /*Adjust for navbar text color*/
-    --color-primary: #576cbc;
-    --color-secondary: #19376d;
+    --color-primary: #092757;
+    --color-secondary: #0396AE;
     --color-dark: #0b2447;
     --color-bg: #04152d;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
+    --color-dark: #0396AE;
+    --color-bg: #05698B;
 
     --font-roboto: "Roboto";
 }
